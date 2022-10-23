@@ -1,0 +1,4 @@
+test_update_user:
+  # 修改用户参数
+  # user_id, password, mobile, nickname, uuid
+  - [109856, "e10adc3949ba59abbe56e057f20f883e", "MTM4MjEzNDIxMjM=", "138****2123", "7dd46aa05f58f0e9cf6bb026b081c0c7610f1fabd6a1be5bf500d549ce05289f"]

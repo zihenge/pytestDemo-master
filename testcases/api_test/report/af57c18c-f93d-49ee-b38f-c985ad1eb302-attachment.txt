@@ -1,0 +1,1 @@
+{'code': 0, 'data': {'list': {'access_token': 'shopping:login_user_24c153492dc534ce1b99bbf75d23596d', 'user_id': '245470', 'nickname': '186****0914', 'need_open_onecoin': '0', 'need_implement_guide': '0', 'guide_step': '1', 'jump_invite_page': '0'}}, 'api_name': 'kyk.userV217.signin', 'is_white_user': '0', 'error_msg': ''}

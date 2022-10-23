@@ -1,0 +1,6 @@
+init_admin_user:
+  mobile: "18671490914"
+  verify_code: "111111"
+
+init_sql:
+  update_user_telephone: "UPDATE mtb_user SET nickname = '15050222342' WHERE user_id = 109856"
